@@ -1,4 +1,7 @@
 # script-mobox-es
+<div style="margin-left: auto; margin-right: auto; display: block;>
+<img src="mobox.png>
+</div>
 Scripts para mobox en español 
 ### INSTALACIÓN
 
