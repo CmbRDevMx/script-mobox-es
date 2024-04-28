@@ -25,25 +25,4 @@ curl -s -o ~/x https://raw.githubusercontent.com/CmbRDevMx/script-mobox-es/main/
 
 ### CUSTOM WINES 
 
-
-
-- Clona esta herramienta
-
-```
-pkg install wget -y
-```
-```
-wget https://raw.githubusercontent.com/CmbRDevMx/script-mobox-es/main/mbx.sh
-```
-```
-chmod +x mbx.sh
-```
-ahora en adelante para usarlo asi es:
-```
-./mbx.sh
-```
-- pero antes de usarlo deberas descargar el wine de mobox que vas a reemplazar por el custom wine que descargaras de Telegram
-> asi que primero entra a mobox y descarga el wine que querrás reemplazar y acuerdate bien de ese nombre porque lo necesitarás para el scrip de arriba 
-
-
-
+> próximamente.....
