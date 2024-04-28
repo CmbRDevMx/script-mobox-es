@@ -25,6 +25,8 @@ curl -s -o ~/x https://raw.githubusercontent.com/CmbRDevMx/script-mobox-es/main/
 
 ### CUSTOM WINES 
 
+
+
 - Clona esta herramienta
 
 ```
@@ -40,6 +42,8 @@ ahora en adelante para usarlo asi es:
 ```
 ./mbx.sh
 ```
+- pero antes de usarlo deberas descargar el wine de mobox que vas a reemplazar por el custom
+> asi que primero entra a mobox y descarga el wine que querrás reemplazar y acuerdate bien de ese nombre porque lo necesitarás para el scrip de arriba 
 
 
 
