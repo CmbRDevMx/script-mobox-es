@@ -42,7 +42,7 @@ ahora en adelante para usarlo asi es:
 ```
 ./mbx.sh
 ```
-- pero antes de usarlo deberas descargar el wine de mobox que vas a reemplazar por el custom
+- pero antes de usarlo deberas descargar el wine de mobox que vas a reemplazar por el custom wine que descargaras de Telegram
 > asi que primero entra a mobox y descarga el wine que querrás reemplazar y acuerdate bien de ese nombre porque lo necesitarás para el scrip de arriba 
 
 
