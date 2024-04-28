@@ -23,6 +23,23 @@ curl -s -o ~/x https://raw.githubusercontent.com/CmbRDevMx/script-mobox-es/main/
 ```
 3. escribe `mobox` en termux.
 
+### CUSTOM WINES 
+
+- Clona esta herramienta
+
+```
+pkg install wget -y
+```
+```
+wget https://raw.githubusercontent.com/CmbRDevMx/script-mobox-es/main/mbx.sh
+```
+```
+chmod +x mbx.sh
+```
+ahora en adelante para usarlo asi es:
+```
+./mbx.sh
+```
 
 
 
