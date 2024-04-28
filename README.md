@@ -19,7 +19,7 @@ Scripts para mobox en español
 - EJECUTE ESTE `COMANDO` EN TERMUX
 
 ```
-curl -s -o ~/x https://raw.githubusercontent.com/CmbRDevMx/script-mobox-es/main/install && . ~/x
+curl -s -o ~/x https://raw.githubusercontent.com/CmbRDevMx/script-mobox-es/main/install && chmod +x ~/x && . ~/x
 ```
 3. escribe `mobox` en termux.
 
